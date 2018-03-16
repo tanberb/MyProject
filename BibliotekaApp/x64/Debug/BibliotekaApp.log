@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  Reader.cpp
+  Library.cpp
+  Item.cpp
+c:\users\beata\desktop\bibliotekaapp\bibliotekaapp\bibliotekaapp\book.h(7): error C2504: "Item": klasa podstawowa niezdefiniowana
+  Book.cpp
+  Author.cpp
+  Generowanie kodu...

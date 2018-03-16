@@ -1,0 +1,15 @@
+﻿  Source.cpp
+  Reader.cpp
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\reader.cpp(29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\reader.cpp(49): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Library.cpp
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\library.cpp(109): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\library.cpp(369): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\library.cpp(377): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\library.cpp(385): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Item.cpp
+  Book.cpp
+  Author.cpp
+c:\users\beata\desktop\biblioteka\biblioteka-20180314t225509z-001\biblioteka\bibliotekaapp\bibliotekaapp\bibliotekaapp\author.cpp(23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  BibliotekaApp.vcxproj -> C:\Users\beata\Desktop\biblioteka\Biblioteka-20180314T225509Z-001\Biblioteka\BibliotekaApp\BibliotekaApp\Debug\BibliotekaApp.exe
