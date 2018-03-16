@@ -1,0 +1,3 @@
+# MyProject
+
+Implementacja obsłui biblioteki.
