@@ -1,3 +1,3 @@
 # MyProject
 
-Implementacja obsłui biblioteki.
+Implementacja obsługi biblioteki.
